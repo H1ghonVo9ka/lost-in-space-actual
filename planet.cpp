@@ -47,7 +47,6 @@ bitmap planet_bitmap(planet_kind kind)
  * at the specified x and y coordinates, a new planet is created.
  *
  * @param  xy
- * @returns
  */
 planet_data new_planet(double x, double y)
 {
