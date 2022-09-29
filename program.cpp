@@ -1,3 +1,5 @@
+// game screencast: https://video.deakin.edu.au/media/t/1_2gtzg4fr
+// code explanation screencast: https://video.deakin.edu.au/media/t/1_8o3fhtnu
 #include "splashkit.h"
 #include "lost_in_space.h"
 
